@@ -7,6 +7,12 @@ Another option would be to select the rest of the system from a given point.  Li
 
 Attack it!
 
+How to Run:
+
+import intern_pipeline.anim_toolset as anim_toolset
+reload(anim_toolset)
+anim_toolset.gui()
+
 '''
 
 import pymel.core as pm
